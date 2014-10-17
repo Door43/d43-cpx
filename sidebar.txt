@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cpx:home|Door43 (cpx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cpx|d43-cpx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cpx/archive/master.zip|d43-cpx.zip]]
+
+**Recent Changes**
+{{changes>ns = cpx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cpx|Ethnologue data]]
+
